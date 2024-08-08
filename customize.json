@@ -1,8 +1,8 @@
 {
-  "greeting": "致",
+  "greeting": "Hiii",
   "name": "文佳",
   "greetingText": "8.8.8.8.8.8今天好像是一个特殊的日子。。。。",
-  "wishText": "May the force always be with you! ;)",
+  "wishText": "祝这个美丽的女孩生日快乐 May the force always be with you ;)",
   "imagePath": "img/wenjia.png",
   "text1": "你的生日到啦 :D",
   "textInChatBox": "生日快乐！！！大宝贝佳佳！！永远幸福平安！！！",
@@ -15,9 +15,9 @@
   "text5Content": "人生路崎岖，终会让你与一切美好相遇",
   "smiley": ":)",
   "bigTextPart1": "最后",
-  "bigTextPart2": "后",
+  "bigTextPart2": "",
   "wishHeading": "Happy Birthday!",
   "outroText": "The world is yours!!",
   "replayText": "无畏无惧，go after it！！.",
-  "outroSmiley": "蕾蕾爱你！！❤️:)"
+  "outroSmiley": "蕾蕾爱你❤️"
 }
